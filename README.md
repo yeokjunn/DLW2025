@@ -80,8 +80,3 @@ src/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Email: contact@deeptrust.ai
-- Twitter: [@deeptrust](https://twitter.com/deeptrust)
